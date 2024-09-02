@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5dbf30df4069df03f41a0e5c"},"numDepartamento":{"$numberInt":"1"},"nome":"DCC","escritorio":{"$numberInt":"100"},"numMatriculaProfessor":{"$numberInt":"1234"},"professores":[{"$numberInt":"0"}]}
+{"_id":{"$oid":"5dbf31284069df03f41a0e5d"},"numDepartamento":{"$numberInt":"2"},"nome":"DMAT","escritorio":{"$numberInt":"200"},"numMatriculaProfessor":{"$numberInt":"123"},"professores":[{"$numberInt":"0"}]}
+{"_id":{"$oid":"5dbf31644069df03f41a0e5e"},"numDepartamento":{"$numberInt":"3"},"nome":"DFIS","escritorio":{"$numberInt":"300"},"numMatriculaProfessor":{"$numberInt":"4567"},"professores":[{"$numberInt":"0"}]}
+{"_id":{"$oid":"5dbf31d34069df03f41a0e5f"},"numDepartamento":{"$numberInt":"4"},"nome":"DQUIM","escritorio":{"$numberInt":"400"},"numMatriculaProfessor":{"$numberInt":"7654"},"professores":[{"$numberInt":"0"}]}
